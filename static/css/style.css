@@ -1,0 +1,24 @@
+html body {
+  background-color: rgb(46, 46, 46);;
+}
+
+body main.home {
+  justify-content: flex-start !important;
+}
+
+body main .homepage-avatar {
+    width: 23rem;
+    margin-bottom: 0.1rem !important;
+}
+
+body main h1 {
+  color: white;
+}
+
+body main p {
+  color: white;
+}
+
+body main p a {
+  color: rgb(193, 39, 45);
+}
