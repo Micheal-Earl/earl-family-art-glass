@@ -10,10 +10,13 @@ We are excited to share our passion for art glass!
 
 [Shop](/shop/) &bull; [News](/posts/) &bull; [Portfolio](/photos/) &bull; [Contact Us](/contact/)
 
-[Facebook](https://www.facebook.com/earlfamilyartglass/) &bull; [Etsy](https://www.etsy.com/shop/EarlFamilyArtGlass/)
+[Facebook](https://www.facebook.com/groups/176107779987558/) &bull; [Etsy](https://www.etsy.com/shop/EarlFamilyArtGlass/)
 
 <!--
 [Shop](/posts/) &bull; [News](/categories/) &bull; [Portfolio](/tags/)
 
 [Facebook](/photos/) &bull; [Etsy](/projects/)
+
+
+[Facebook](https://www.facebook.com/earlfamilyartglass/)
 -->
