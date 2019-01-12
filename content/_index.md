@@ -6,8 +6,14 @@ slug: /
 
 # Earl Family Art Glass
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+We are excited to share our passion for glass art!
 
-[Shop](/posts/) &bull; [Portfolio](/categories/) &bull; [Tags](/tags/)
+[Shop](/shop/) &bull; [News](/posts/) &bull; [Portfolio](/photos/)
 
-[Photos](/photos/) &bull; [Projects](/projects/)
+[Facebook](https://www.facebook.com/earlfamilyartglass/) &bull; [Etsy](https://www.etsy.com/shop/EarlFamilyArtGlass/)
+
+<!--
+[Shop](/posts/) &bull; [News](/categories/) &bull; [Portfolio](/tags/)
+
+[Facebook](/photos/) &bull; [Etsy](/projects/)
+-->
