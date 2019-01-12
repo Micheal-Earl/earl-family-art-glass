@@ -6,7 +6,7 @@ slug: /
 
 # Earl Family Art Glass
 
-We are excited to share our passion for glass art!
+We are excited to share our passion for art glass!
 
 [Shop](/shop/) &bull; [News](/posts/) &bull; [Portfolio](/photos/)
 
