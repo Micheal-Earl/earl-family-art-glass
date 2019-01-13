@@ -8,9 +8,9 @@ slug: /
 
 We are excited to share our passion for art glass!
 
-[Shop](/shop/) &bull; [News](/posts/) &bull; [Portfolio](/photos/) &bull; [Contact Us](/contact/)
+[Shop](https://www.etsy.com/shop/EarlFamilyArtGlass/) &bull; [News](/posts/) &bull; [Portfolio](/photos/) &bull; [Contact Us](/contact/)
 
-[Facebook](https://www.facebook.com/groups/176107779987558/) &bull; [Etsy](https://www.etsy.com/shop/EarlFamilyArtGlass/)
+[Facebook](https://www.facebook.com/groups/176107779987558/) &bull; [Instagram](https://www.instagram.com/earlfamilyartglass)
 
 <!--
 [Shop](/posts/) &bull; [News](/categories/) &bull; [Portfolio](/tags/)
