@@ -1,6 +1,5 @@
 baseURL = "https://earlfamilyartglass.com"
 defaultContentLanguage = "en"
-disqusShortname = "earlfamilyartglass.disqus.com"
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-132405475-1"
