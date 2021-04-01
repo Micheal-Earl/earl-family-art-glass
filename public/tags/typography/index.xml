@@ -1,0 +1,95 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>typography on Earl Family Art Glass</title>
+    <link>https://earlfamilyartglass.com/tags/typography/</link>
+    <description>Recent content in typography on Earl Family Art Glass</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Oct 2018 10:15:01 +0200</lastBuildDate>
+    
+      <atom:link href="https://earlfamilyartglass.com/tags/typography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Youtube</title>
+        <link>https://earlfamilyartglass.com/posts_old/2017/youtube/</link>
+        <pubDate>Tue, 09 Oct 2018 10:15:01 +0200</pubDate>
+        <guid>https://earlfamilyartglass.com/posts_old/2017/youtube/</guid>
+        <description>{{&amp;lt; youtube wwKBHrMy-Wc &amp;gt;}} </description>
+      </item>
+    
+      <item>
+        <title>Vimeo</title>
+        <link>https://earlfamilyartglass.com/posts_old/2017/vimeo/</link>
+        <pubDate>Sun, 09 Sep 2018 10:15:01 +0200</pubDate>
+        <guid>https://earlfamilyartglass.com/posts_old/2017/vimeo/</guid>
+        <description>{{&amp;lt; vimeo 265143954 &amp;gt;}} </description>
+      </item>
+    
+      <item>
+        <title>Video</title>
+        <link>https://earlfamilyartglass.com/posts_old/2017/video/</link>
+        <pubDate>Sat, 09 Jun 2018 10:15:01 +0200</pubDate>
+        <guid>https://earlfamilyartglass.com/posts_old/2017/video/</guid>
+        <description>{{&amp;lt; video src=&amp;#34;media/video.mp4&amp;#34; &amp;gt;}} Your browser does not support the video tag.</description>
+      </item>
+    
+      <item>
+        <title>Typography</title>
+        <link>https://earlfamilyartglass.com/posts_old/2017/typography/</link>
+        <pubDate>Fri, 09 Mar 2018 10:15:01 +0200</pubDate>
+        <guid>https://earlfamilyartglass.com/posts_old/2017/typography/</guid>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit 😉. Nullam nibh lorem, porta ut urna ut, scelerisque consequat magna. Pellentesque vel massa sed tortor cursus tempus at eget ligula. Duis leo odio, luctus eget suscipit vel, pharetra id velit. Mauris arcu enim, mollis placerat porta in, sagittis a nisl. Nam et augue eu justo porta tincidunt. In luctus nisl dolor, sed aliquet augue elementum eget. Vivamus laoreet, mauris vitae aliquam faucibus, tellus dolor feugiat felis, ac facilisis diam eros eget est.</description>
+      </item>
+    
+      <item>
+        <title>Twitter</title>
+        <link>https://earlfamilyartglass.com/posts_old/2017/twitter/</link>
+        <pubDate>Fri, 09 Feb 2018 10:15:01 +0200</pubDate>
+        <guid>https://earlfamilyartglass.com/posts_old/2017/twitter/</guid>
+        <description>{{&amp;lt; tweet 935115588166471680 &amp;gt;}} Hugo 0.31.1 Just Released:https://t.co/876ahdkJm4 @bepsays #gohugo #golang #webdev #staticgen
+&amp;mdash; GoHugo.io (@GoHugoIO) November 27, 2017  </description>
+      </item>
+    
+      <item>
+        <title>Tables</title>
+        <link>https://earlfamilyartglass.com/posts_old/2017/tables/</link>
+        <pubDate>Tue, 09 Jan 2018 10:15:01 +0200</pubDate>
+        <guid>https://earlfamilyartglass.com/posts_old/2017/tables/</guid>
+        <description>   First Header Second Header Third Header     Content Cell Content Cell Content Cell   Content Cell Content Cell Content Cell        First Header Second Header     Content Cell Content Cell   Content Cell Content Cell        First Header Second Header Third Header     Left Center Right   Left Center Right               Left Center Right   Left Center Right    </description>
+      </item>
+    
+      <item>
+        <title>Speakerdeck</title>
+        <link>https://earlfamilyartglass.com/posts_old/2017/speakerdeck/</link>
+        <pubDate>Sun, 09 Jul 2017 10:15:01 +0200</pubDate>
+        <guid>https://earlfamilyartglass.com/posts_old/2017/speakerdeck/</guid>
+        <description>{{&amp;lt; speakerdeck 50021f75cf1db900020005e7 &amp;gt;}} </description>
+      </item>
+    
+      <item>
+        <title>Instagram</title>
+        <link>https://earlfamilyartglass.com/posts_old/2017/instagram/</link>
+        <pubDate>Sun, 09 Apr 2017 10:15:01 +0200</pubDate>
+        <guid>https://earlfamilyartglass.com/posts_old/2017/instagram/</guid>
+        <description>{{&amp;lt; instagram BbTLbYSH59J &amp;gt;}}  {{&amp;lt; instagram BahBaqvnv5N hidecaption &amp;gt;}}  </description>
+      </item>
+    
+      <item>
+        <title>Gist</title>
+        <link>https://earlfamilyartglass.com/posts_old/2017/gist/</link>
+        <pubDate>Thu, 09 Feb 2017 10:15:01 +0200</pubDate>
+        <guid>https://earlfamilyartglass.com/posts_old/2017/gist/</guid>
+        <description>{{&amp;lt; gist spf13 7896402 &amp;gt;}}  </description>
+      </item>
+    
+      <item>
+        <title>Code</title>
+        <link>https://earlfamilyartglass.com/posts_old/2017/code/</link>
+        <pubDate>Mon, 09 Jan 2017 10:15:01 +0200</pubDate>
+        <guid>https://earlfamilyartglass.com/posts_old/2017/code/</guid>
+        <description>import os# Very long line, very long line, very long line, very long line, very long line, very long line, very long line, very long line.filename = os.environ.get(&#39;PYTHONSTARTUP&#39;)if filename and os.path.isfile(filename):with open(filename) as fobj:startup_file = fobj.read()exec(startup_file) import os # Very long line, very long line, very long line, very long line, very long line, very long line, very long line, very long line. filename = os.</description>
+      </item>
+    
+  </channel>
+</rss>

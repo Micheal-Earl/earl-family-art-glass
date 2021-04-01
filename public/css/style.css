@@ -1,0 +1,40 @@
+a {
+  color: rgb(193, 39, 45) !important;
+}
+
+nav a {
+  color: rgb(37, 37, 37) !important;
+}
+
+html {
+  min-height: inherit;
+  background-color: rgb(37, 37, 37);
+}
+
+body {
+  min-height: 100%;
+  background-color: rgb(37, 37, 37);
+}
+
+body main.home {
+  justify-content: flex-start !important;
+}
+
+body main .homepage-avatar {
+    width: 23rem;
+    margin-top: 0rem;
+    margin-bottom: 0.1rem !important;
+}
+
+body main h1 {
+  color: white;
+}
+
+body main p {
+  color: white;
+}
+
+body footer {
+  color: white !important;
+}
+
