@@ -298,13 +298,6 @@ slug: photos
   <figcaption>Description Pending</figcaption>
 </figure>
 
-<figure>
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/gKvNuYK" data-context="false" ><a href="//imgur.com/a/gKvNuYK"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
-    <img src="https://i.imgur.com/1HmIE3y.jpg" title="earlfamilyartglass" alt="marble" />
-  </a>
-  <figcaption>Description Pending</figcaption>
-</figure
-
 <br/>
 <hr/>
 <br/>
