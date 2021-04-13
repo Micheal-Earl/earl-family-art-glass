@@ -298,13 +298,6 @@ slug: photos
   <figcaption>Description Pending</figcaption>
 </figure>
 
-<figure>
-  <a href="https://i.imgur.com/KP4MF4x.jpg"> 
-    <img src="https://i.imgur.com/KP4MF4x.jpg" title="earlfamilyartglass" alt="marble" />
-  </a>
-  <figcaption>This is a dog</figcaption>
-</figure>
-
 <br/>
 <hr/>
 <br/>
